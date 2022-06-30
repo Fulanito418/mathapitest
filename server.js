@@ -51,3 +51,4 @@ app.get('/api/:mathInfo', (request, response)=> {
 app.listen(PORT, ()=>{
     console.log(`The server is running on PORT ${PORT}!`)
 })
+
